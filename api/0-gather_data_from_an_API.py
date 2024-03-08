@@ -1,7 +1,9 @@
 #!/usr/bin/python3
 """Script to get todos for a user from API"""
+
 import requests
 import sys
+
 
 def main():
     """main function"""
